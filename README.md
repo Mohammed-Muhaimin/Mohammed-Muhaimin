@@ -15,7 +15,7 @@
 - 💻 **Languages:** C, C++, Python, Java  
 
 ### 🛠️ Data Visualization Tools  
-- ✅ **Data Science Libraries:** Matplotlib, Seaborn, Pandas, Scikit-learn
+- 📊 **Data Science Libraries:** Matplotlib, Seaborn, Pandas, Scikit-learn
 
 ### 🖥️ Other Tools  
 - 🌐 **Version Control:** Git, GitHub  
@@ -30,7 +30,7 @@
 
 ## 📫 Let's Connect  
 
-💌 **Email:** (mailto:am.muhaimin25@gmail.com)  
+📩 **Email:** (mailto:am.muhaimin25@gmail.com)  
 📞 **Contact:** +91 63646 82506
 💼 **LinkedIn** Profile: (https://www.linkedin.com/in/mohammedmuhaimin/)
 ---
