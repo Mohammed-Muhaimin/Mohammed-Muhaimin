@@ -3,7 +3,7 @@
 ---
 
 ## 🚀 About Me  
-🌟 Aspring **Cybersecurity Analyst**  
+🌟 Aspiring **Cybersecurity Analyst**  
 🎓 Student at **Maharaja Institute of Technology, Mysore**, passionate about **ethical hacking** and **digital security**.  
 📚 "Always eager to learn, hack, and secure innovative solutions that make an impact!"
 
